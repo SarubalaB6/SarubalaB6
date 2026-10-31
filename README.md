@@ -1,6 +1,6 @@
 # Hi, I'm Sarubala B 👋
 
-Final-year B.Tech Information Technology student interested in Full Stack Development and AI.
+ B.Tech Information Technology student interested in Full Stack Development and AI.
 
 ## Links
 - Portfolio: https://sarubala-portfolio.vercel.app
